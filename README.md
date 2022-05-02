@@ -1,4 +1,4 @@
-<img src="https://unsplash.com/photos/UYsBCu9RP3Y" alt="bg-image">
+<!-- <img src="https://unsplash.com/photos/UYsBCu9RP3Y"> -->
 
 <h2> Hey there! I'm Saber.</h2>
 
@@ -13,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stacks :</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
